@@ -20,5 +20,8 @@ and here's the order of their creation (oldest to newest):
 As you can see [in the tags][tags] (or [releases][releases]),
 same-day items are displayed in the correct semver order, but this order is broken for items created on different days.
 
+Here's an [issue I've raised](https://github.com/orgs/community/discussions/8226#discussioncomment-10070772)
+with Github employees to help them address it.
+
 [tags]:https://github.com/dskecse/gh_releases_order_issue/tags
 [releases]:https://github.com/dskecse/gh_releases_order_issue/releases
